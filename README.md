@@ -1,6 +1,4 @@
-# HttpURLConnection
-
-http://blog.csdn.net/devinteng/article/details/44809019
+# HttpURLConnection 
 
 ```JAVA
 
